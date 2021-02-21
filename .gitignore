@@ -30,3 +30,6 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/osx
+.ipynb_checkpoints/recap-checkpoint 2.ipynb
+__pycache__/recap.cpython-35.pyc
+__pycache__/recap.cpython-37.pyc
